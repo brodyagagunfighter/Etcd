@@ -190,4 +190,4 @@ This repository serves as the official landing page for etcd. The software is di
 **Get the most recent version of etcd today!**
 
 ---
-**Last updated:** 2026-11-14 00:08:32 UTC
+**Last updated:** 2026-11-14 07:19:16 UTC
